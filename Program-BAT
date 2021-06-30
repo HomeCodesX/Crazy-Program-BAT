@@ -1,0 +1,14 @@
+@echo off
+title password cracker [test]
+color 3
+:home
+echo *   -   -   -   -   -   -   -   -   *
+echo.
+echo     password cracker [ test ]
+echo.
+echo *   -   -   -   -   -   -   -   -   *
+set /p name=">Console:_ "
+
+if %name%==a 1(
+start C:\Users\Andrey\Desktop\TestingPrograms\ForVideos\ReadyPro\ErrorMassage.vbs
+)
